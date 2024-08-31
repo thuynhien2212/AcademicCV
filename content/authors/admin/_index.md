@@ -111,7 +111,7 @@ skills:
     icon: camera
     name: Photography
     percent: 80
-  name: Hobbies
+  name: Soft skills
 status:
   icon: ☕️
 superuser: true

@@ -14,7 +14,7 @@ main:
     url: skills/
     weight: 12
   - name: Publications
-    url: /#papers
+    url: publication_new
     weight: 13
   - name: Conference
     url: conference/
