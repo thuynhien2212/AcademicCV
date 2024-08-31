@@ -291,7 +291,7 @@
 
 
 
-&lt;div id=&#34;chart-937126548&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-734685921&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -309,7 +309,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-937126548&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-734685921&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -857,6 +857,14 @@ data.head()
     </item>
     
     <item>
+      <title>Skills</title>
+      <link>http://localhost:4321/skills/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>✅ Manage your projects</title>
       <link>http://localhost:4321/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
@@ -1027,6 +1035,48 @@ Parallel 4   :         des6, after des4, 1d
   &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:4321/award/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/award/</guid>
+      <description>&lt;p&gt;widget: experience
+headless: true
+title: My Experience
+subtitle:
+weight: 10&lt;/p&gt;
+&lt;p&gt;date_format: Jan 2006
+item:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;organization: Coursera
+organization_url: &amp;lsquo;&lt;a href=&#34;https://www.coursera.org&#34;&gt;https://www.coursera.org&lt;/a&gt;&amp;rsquo;
+title: Neural Networks and Deep Learning
+url: &amp;rsquo;&amp;rsquo;
+certificate_url: &amp;lsquo;&lt;a href=&#34;https://www.coursera.org&#34;&gt;https://www.coursera.org&lt;/a&gt;&amp;rsquo;
+date_start: &amp;lsquo;2018-10-01&amp;rsquo;
+date_end: &amp;rsquo;&amp;rsquo;
+description: &#39;&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;organization: edX
+organization_url: &amp;lsquo;&lt;a href=&#34;https://www.edx.org&#34;&gt;https://www.edx.org&lt;/a&gt;&amp;rsquo;
+title: Blockchain Fundamentals
+url: &amp;gt;-
+&lt;a href=&#34;https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals&#34;&gt;https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals&lt;/a&gt;   &lt;br&gt;
+certificate_url: &amp;lsquo;&lt;a href=&#34;https://www.edx.org&#34;&gt;https://www.edx.org&lt;/a&gt;&amp;rsquo;
+date_start: &amp;lsquo;2018-03-01&amp;rsquo;
+date_end: &amp;rsquo;&amp;rsquo;
+description: &amp;lsquo;Formulated informed blockchain models, hypotheses, and use cases.&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;organization: DataCamp
+organization_url: &amp;lsquo;&lt;a href=&#34;https://www.datacamp.com&#34;&gt;https://www.datacamp.com&lt;/a&gt;&amp;rsquo;
+title: &amp;lsquo;Object-Oriented Programming in R: S3 and R6 Course&amp;rsquo;
+url: &amp;rsquo;&amp;rsquo;
+certificate_url: &amp;lsquo;&lt;a href=&#34;https://www.datacamp.com&#34;&gt;https://www.datacamp.com&lt;/a&gt;&amp;rsquo;
+date_start: &amp;lsquo;2017-07-01&amp;rsquo;
+date_end: &amp;lsquo;2017-12-21&amp;rsquo;
+description: &#39;&amp;rsquo;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
