@@ -1,10 +1,11 @@
 ---
-abstract: "**INTRODUCTION**: Monitoring antimicrobial consumption is essential for evaluating antibiotic stewardship programs and controlling resistance. In Vietnam, Defined Daily Dose (DDD) is prioritized over Day of Therapy (DOT) for antimicrobial surveillance due to resource constraints and hospital data retrieval challenges. However, compared to DOT, DDD has been criticized due to its unrepresentativeness when relying on pre-defined values and undefined in pediatric patients\n **OBJECTIVES**
-To compare DDD and DOT metrics of antimicrobials for determining the optimal metric for resource allocation\n
+abstract: "**INTRODUCTION**: Monitoring antimicrobial consumption is essential for evaluating antibiotic stewardship programs and controlling resistance. In Vietnam, Defined Daily Dose (DDD) is prioritized over Day of Therapy (DOT) for antimicrobial surveillance due to resource constraints and hospital data retrieval challenges. However, compared to DOT, DDD has been criticized due to its unrepresentativeness when relying on pre-defined values and undefined in pediatric patients.<br>
+**OBJECTIVES**
+To compare DDD and DOT metrics of antimicrobials for determining the optimal metric for resource allocation.<br> 
 **METHODS**
-We retrospectively analyzed clinical and administrative data of inpatients receiving antimicrobials at the Hospital for Tropical Diseases and Thong Nhat Hospital from 01/2017 to 12/2020. Our primary outcome was the differences between antimicrobial use measured by DDDs per 1000 patient-days (DDD/1000PDs) and DOTs per 1000 patient-days (DOT/1000PDs) across periods and age-specific groups. We assessed the relationship between DDD- and DOT-based metrics over time using linear regression. Cohen’s d was used to evaluate the standardized mean differences between DDDs and DOTs among pediatric and adult inpatients.\n
+We retrospectively analyzed clinical and administrative data of inpatients receiving antimicrobials at the Hospital for Tropical Diseases and Thong Nhat Hospital from 01/2017 to 12/2020. Our primary outcome was the differences between antimicrobial use measured by DDDs per 1000 patient-days (DDD/1000PDs) and DOTs per 1000 patient-days (DOT/1000PDs) across periods and age-specific groups. We assessed the relationship between DDD- and DOT-based metrics over time using linear regression. Cohen’s d was used to evaluate the standardized mean differences between DDDs and DOTs among pediatric and adult inpatients.<br>
 **RESULTS**
-Two hospitals recorded 1011.68 and 1036.76 DDD/1000PDs, exceeding DOT estimates (920.87 and 838.44 DOT/1000PDs, respectively). DDD- and DOT- metrics showed significant linear relationships for most antimicrobials, except for cefuroxime, ceftriaxone, and linezolid. Fluoroquinolone use calculated by DDD/1000PDs surpassed those calculated by DOT/1000PDs (p < 0.001), indicating the administered daily doses often greater than the DDD value assigned by the World Health Organization (WHO-DDD). Carbapenem use showed comparable results between DOT and DDD because the daily dose aligned with WHO-DDD and these antibiotics were mainly used in adult inpatients. Pediatric and adult inpatients displayed DDD and DOT differences, particularly in glycopeptides, with a small effect size of d=0.18 in children and a large one of d=0.96 in adults.\n
+Two hospitals recorded 1011.68 and 1036.76 DDD/1000PDs, exceeding DOT estimates (920.87 and 838.44 DOT/1000PDs, respectively). DDD- and DOT- metrics showed significant linear relationships for most antimicrobials, except for cefuroxime, ceftriaxone, and linezolid. Fluoroquinolone use calculated by DDD/1000PDs surpassed those calculated by DOT/1000PDs (p < 0.001), indicating the administered daily doses often greater than the DDD value assigned by the World Health Organization (WHO-DDD). Carbapenem use showed comparable results between DOT and DDD because the daily dose aligned with WHO-DDD and these antibiotics were mainly used in adult inpatients. Pediatric and adult inpatients displayed DDD and DOT differences, particularly in glycopeptides, with a small effect size of d=0.18 in children and a large one of d=0.96 in adults.<br>
 **CONCLUSION**
 We suggest using DDD to measure the consumption of last-resort antibiotics efficiently. Additionally, DOT should be prioritized to prevent overestimating consumption levels in frequently used antimicrobial groups like fluoroquinolones."
 address:
@@ -39,15 +40,3 @@ url_pdf: ""
 url_slides: https://slideshare.net
 url_video: https://youtube.com
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.

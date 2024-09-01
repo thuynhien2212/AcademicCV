@@ -4,5 +4,5 @@ image:
   caption: ""
   filename: ""
 title: Conferences
-view: card
+view: article-grid
 ---

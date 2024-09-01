@@ -24,7 +24,7 @@ sections:
     title: Recent Publications
   design:
     columns: 2
-    view: article-grid
+    view: card
   id: papers
 title: Publication
 type: landing
