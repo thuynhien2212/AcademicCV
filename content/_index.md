@@ -30,6 +30,7 @@ sections:
   design:
     columns: '2'
 - block: experience
+  id: experience
   content:
     title: Experience
     date_format: Jan 2006
