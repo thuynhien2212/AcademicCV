@@ -1,4 +1,17 @@
 ---
+features:
+- icon: r-project
+  icon_pack: fab
+  name: R
+  description: 90%
+- icon: chart-line
+  icon_pack: fas
+  name: Statistics
+  description: 100%
+- icon: camera-retro
+  icon_pack: fas
+  name: Photography
+  description: 10%
 awards:
 - awarder: Coursera
   certificate_url: https://www.datacamp.com
@@ -85,33 +98,25 @@ skills:
 - items:
   - description: ""
     icon: code-bracket
-    name: Python
+    name: Listening
     percent: 80
   - description: ""
     icon: chart-bar
-    name: Data Science
+    name: Reading
     percent: 100
-  - description: ""
-    icon: circle-stack
-    name: SQL
-    percent: 40
-  name: Technical Skills
+  name: English
 - color: '#eeac02'
   color_border: '#f0bf23'
   items:
   - description: ""
-    icon: person-simple-walk
-    name: Hiking
-    percent: 60
-  - description: ""
-    icon: cat
-    name: Cats
-    percent: 100
-  - description: ""
-    icon: camera
-    name: Photography
+    icon: code-bracket
+    name: Listening
     percent: 80
-  name: Soft skills
+  - description: ""
+    icon: chart-bar
+    name: Reading
+    percent: 100
+  name: French
 status:
   icon: ☕️
 superuser: true

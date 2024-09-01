@@ -1,20 +1,31 @@
 ---
-date: "2023-10-24"
 design:
-  spacing: 2rem
+  spacing: 6rem
 sections:
-- block: resume-skills
+- block: features
   content:
+    items:
+      - icon: r-project
+        icon_pack: custom
+        name: R
+        description: 90%
+      - icon: cube
+        icon_pack: fas
+        name: Statistics
+        description: 100%
+      - icon: camera-retro
+        icon_pack: fas
+        name: Photography
+        description: 10%
     title: Skills
-    username: admin
   design:
-    show_skill_percentage: true
-- block: resume-languages
+    columns: 3
+- block: resume-skills
   content:
     title: Languages
     username: admin
   design:
-    columns: 3
+    columns: 2
 - block: resume-awards
   content:
     title: Accomplishments
