@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferences | Phan Thuy Nhien Nguyen</title>
-    <link>https://thuynhiennguyenphan.github.io/conference/</link>
-      <atom:link href="https://thuynhiennguyenphan.github.io/conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/conference/</link>
+      <atom:link href="http://localhost:4321/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thuynhiennguyenphan.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
       <title>Conferences</title>
-      <link>https://thuynhiennguyenphan.github.io/conference/</link>
+      <link>http://localhost:4321/conference/</link>
     </image>
     
     <item>
       <title>Measurement of DDD and DOT metrics for optimizing antimicrobial surveillance in two tertiary hospitals in Viet Nam: a four-year retrospective study</title>
-      <link>https://thuynhiennguyenphan.github.io/conference/aseanpharmnet/</link>
+      <link>http://localhost:4321/conference/aseanpharmnet/</link>
       <pubDate>Wed, 12 Jun 2024 13:00:00 +0000</pubDate>
-      <guid>https://thuynhiennguyenphan.github.io/conference/aseanpharmnet/</guid>
+      <guid>http://localhost:4321/conference/aseanpharmnet/</guid>
       <description></description>
     </item>
     

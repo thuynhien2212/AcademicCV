@@ -14,17 +14,17 @@ features:
   description: 10%
 awards:
 - awarder: Coursera
-  certificate_url: https://www.datacamp.com
-  date: "2023-11-25"
+  certificate_url: https://www.coursera.org/account/accomplishments/verify/8H7PK0WJZWNH
+  date: "2024-09-08"
   icon: coursera
-  title: Neural Networks and Deep Learning
-  url: https://www.coursera.org/learn/neural-networks-deep-learning
-- awarder: edX
-  certificate_url: https://www.datacamp.com
-  date: "2023-07-01"
-  icon: edx
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  title: Improving your statistical inferences
+  url: https://www.coursera.org/account/accomplishments/verify/8H7PK0WJZWNH
+- awarder: Coursera
+  certificate_url: https://www.coursera.org/account/accomplishments/verify/CCG7RMAEEX47
+  date: "2021-10-01"
+  icon: coursera
+  title: Practical Time Series Analysis
+  url: https://www.coursera.org/account/accomplishments/verify/CCG7RMAEEX47
 - awarder: datacamp
   certificate_url: https://www.datacamp.com
   date: "2023-01-21"
@@ -125,8 +125,8 @@ title: Thuy Nhien Nguyen Phan
 work:
   - position: Researcher
     company_name: Department of Pharmaceutical Administration, University of Medicine And Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Vietnam
-    company_url: ''
-    company_logo: ''
+    company_url: https://pharm.ump.edu.vn/
+    company_logo: ump.png
     date_start: 2023-05-01
     date_end: ''
     summary: |2-

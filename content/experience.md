@@ -9,6 +9,7 @@ sections:
     date_format: Jan 2006
   design:
     columns: '1'
+    view: timeline
 title: Experience
 type: landing
 ---

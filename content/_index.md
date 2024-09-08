@@ -12,7 +12,6 @@ sections:
     username: admin
   design:
     background:
-      color: black
       image:
         filename: newbg.jpg
         filters:
@@ -59,7 +58,7 @@ sections:
     title: Featured Publications
   design:
     columns: 2
-    view: article-grid
+    view: compact
   id: papers
 - block: collection
   content:
@@ -70,7 +69,7 @@ sections:
     text: ""
     title: Recent Publications
   design:
-    view: citation
+    view: showcase
 - block: collection
   content:
     filters:

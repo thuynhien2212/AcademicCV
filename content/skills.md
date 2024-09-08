@@ -5,8 +5,7 @@ sections:
 - block: features
   content:
     items:
-      - icon: r-project
-        icon_pack: custom
+      - icon: "custom/r-project"
         name: R
         description: 90%
       - icon: cube
