@@ -3,6 +3,7 @@ design:
   spacing: 6rem
 sections:
 - block: features
+  id: skills
   content:
     items:
       - icon: "custom/r-project"

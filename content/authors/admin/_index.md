@@ -32,37 +32,22 @@ awards:
   title: Object-Oriented Programming in R
   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
-- area: PhD Artificial Intelligence
-  button:
-    text: Read Thesis
-    url: https://example.com
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Stanford University
+- area: Pharmacist
+  # button:
+  #   text: Read Thesis
+  #   url: https://example.com
+  date_end: "2022-01-01"
+  date_start: "2016-09-01"
+  institution: University of Medicine And Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Vietnam
   summary: |
-    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-- area: MEng Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
-  summary: |
-    GPA: 3.8/4.0
+    **Specialty:** Pharmaceutical Administration – **GPA: 2.88/4.0**
 
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-- area: BSc Artificial Intelligence
-  date_end: "2020-12-31"
-  date_start: "2016-01-01"
-  institution: Massachusetts Institute of Technology
-  summary: |
-    GPA: 3.4/4.0
+    **Graduation thesis:** Assessment on antibiotic use in Hospital for Tropical Disease and Thong Nhat Hospital from 2017 to 2020 by antimicrobial stewardship metrics (Grade: 10.0/10.0, Supervisor: Nguyen Thi Hai Yen, PhD in Public Health)
+- area: 'Short course training: Understanding the entire investment lifecycle - from scientific innovation to market impact of pharmaceutical and healthcare startups'
+  date_end: "2023-03-31"
+  date_start: "2023-03-01"
+  institution: Funded Visiting Scholarship by SM-Sino Technology Investment
 
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 first_name: Phan Thuy Nhien
 highlight_name: true
 interests:
@@ -79,20 +64,20 @@ languages:
 last_name: Nguyen
 name_pronunciation: Thuy Nhien Nguyen Phan
 organizations:
-- name: OpenAI
-  url: https://openai.com/
+- name: University of Medicine and Pharmacy at Ho Chi Minh City
+  url: https://pharm.ump.edu.vn/
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:your-email@example.com
+  url: mailto:nptnhien.duoc16@ump.edu.vn
 - icon: brands/github
-  url: https://github.com/gcushen
+  url: https://github.com/thuynhien2212
 - icon: brands/linkedin
-  url: https://www.linkedin.com/
+  url: https://www.linkedin.com/in/thuynhien2212/
 - icon: academicons/google-scholar
   url: https://scholar.google.com/
 - icon: academicons/orcid
-  url: https://orcid.org/
+  url: https://orcid.org/0000-0002-5494-271X
 role: Pharm.D
 skills:
 - items:
@@ -120,7 +105,7 @@ skills:
 status:
   icon: ☕️
 superuser: true
-title: Thuy Nhien Nguyen Phan
+# title: Thuy Nhien Nguyen Phan
 
 work:
   - position: Researcher
@@ -150,6 +135,9 @@ work:
       - Planned and calculated for Patient Access Scheme Scenarios to gain patient access to anticancer treatments
       - Trained in Good Clinical Practice and clinical trial monitoring process
       - Prepared bidding documents for health technology assessment projects
+      - Prepared detailed study proposals for ethical review at the hospital
+      - Leader of patient data collection team at Cho Ray Hospital in 2022 (Economic burden of lung cancer patients at Cho Ray Hospital)- - Oversaw the overall PAS compliance and coordination between the hospital, pharmaceutical companies, and regulatory bodies
+      - Managed patient enrollment and daily operations for the PAS at the hospital
   - position: Health Economics - Math Modeling Intern
     company_name: Oxford University Clinical Research Unit, Ho Chi Minh City, Vietnam
     company_url: ''

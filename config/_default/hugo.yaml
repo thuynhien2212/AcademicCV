@@ -6,7 +6,7 @@
 # Website name
 title: Phan Thuy Nhien Nguyen
 # Website URL
-baseURL: 'https://thuynhiennguyenphan.github.io/'
+baseURL: 'https://thuynhiennguyenphan.netlify.app/'
 
 ############################
 ## LANGUAGE
