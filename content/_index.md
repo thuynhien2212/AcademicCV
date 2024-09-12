@@ -63,6 +63,17 @@ sections:
     username: admin
   design:
     columns: '1'
+- block: collection
+  id: publication
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - publication
+    text: ""
+    title: Publications
+  design:
+    view: citation
 - block: markdown
   content:
     subtitle: ""

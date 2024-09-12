@@ -74,8 +74,8 @@ profiles:
   url: https://github.com/thuynhien2212
 - icon: brands/linkedin
   url: https://www.linkedin.com/in/thuynhien2212/
-- icon: academicons/google-scholar
-  url: https://scholar.google.com/
+# - icon: academicons/google-scholar
+#   url: https://scholar.google.com/
 - icon: academicons/orcid
   url: https://orcid.org/0000-0002-5494-271X
 role: Pharm.D
