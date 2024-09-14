@@ -126,7 +126,7 @@ work:
   - position: Health Technology Assessment (HTA) Executive
     company_name: HORUS Company Limited, Ho Chi Minh City, Vietnam
     company_url: 'https://horus.vn/'
-    company_logo: 'https://horus.vn/favicon-32x32.png'
+    company_logo_file: 'Horus.png'
     date_start: 2022-04-01
     date_end: 2023-04-01
     summary: |2-
