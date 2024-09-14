@@ -20,12 +20,6 @@ sections:
         position: center
         size: cover
     css_class: dark
-- block: markdown
-  content:
-    title: "Summary"
-    text: "I hold a bachelor's degree in Pharmacy in 2021 and currently serve as a researcher in the Department of Pharmaceutical Administration at the University of Medicine and Pharmacy in Ho Chi Minh City, Vietnam. With five years of expertise in data analysis using STATA and R, alongside qualitative and quantitative analysis, my research interests include Health Economic Modelling, Health Technology Assessment, and the Antibiotic Stewardship Program (ASP), with a focus on evaluating healthcare interventions and optimizing resource allocation to improve public health outcomes. Eager to learn, share knowledge, and uphold a strong sense of responsibility, I am pursuing an academic career."
-  design:
-    columns: "1"
 - block: features
   id: skills
   content:
