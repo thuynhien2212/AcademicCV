@@ -9,23 +9,23 @@ Two hospitals recorded 1011.68 and 1036.76 DDD/1000PDs, exceeding DOT estimates 
 **CONCLUSION**
 We suggest using DDD to measure the consumption of last-resort antibiotics efficiently. Additionally, DOT should be prioritized to prevent overestimating consumption levels in frequently used antimicrobial groups like fluoroquinolones."
 address:
-  city: Ratchathewi
-  country: Thailand
+  city: Phan Thiet City
+  country: Vietnam
   postcode: "10400"
-  region: Bangkok
-  street: The Unicorn Building, 18 Phaya Thai Rd, Thung Phaya Thai
+  region: Binh Thuan Province
+  street: Hung Long District
 all_day: false
 authors:
 - admin
-date: "2024-06-12T13:00:00Z"
-date_end: "2024-06-14T15:00:00Z"
-event: The 4th ASEAN PharmNET 2024 & The 2024 US-Thai Pharmacy Consortium Conference
-event_url: https://pharmacy.mahidol.ac.th/aseanpharmnet2024/
+date: "2023-11-24T13:00:00Z"
+date_end: "2023-11-25T15:00:00Z"
+event: 4th Infectious Disease Society of Ho Chi Minh Conference - Advances in diagnosis and treatment of infectious diseases
+event_url: https://www.idsh.org.vn/events/chuong-trinh-hoi-nghi-truyen-nhiem-lan-thu-iv/
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-location: Eastin Grand Hotel Phayathai
+location: TTC Hotel Premium
 projects:
 - example
 publishDate: "2017-01-01T00:00:00Z"
@@ -36,7 +36,7 @@ tags:
 - Vietnam
 title: "Measurement of DDD and DOT metrics for optimizing antimicrobial surveillance in two tertiary hospitals in Viet Nam: a four-year retrospective study"
 url_code: ""
-url_pdf: https://www.aseanpharm.net/publish2024/110624_Abstracts_Book-ASEAN_PharmNET-3.pdf
-url_slides: https://umpedu-my.sharepoint.com/:b:/g/personal/nptnhien_duoc16_ump_edu_vn/EY4GdlPW2MxBpsmsJI7wPpMBbJX7ha13T8MESV2eOqOOoA?e=oj6r0r
+url_pdf: ""
+url_slides: ""
 url_video: ""
 ---
