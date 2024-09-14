@@ -17,14 +17,14 @@ main:
     url: /#publication
     weight: 13
   - name: Conference
-    url: conference/
+    url: /#conference
     weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
-  - name: Posts
-    url: /#news
-    weight: 40
-  - name: Contact
-    url: teaching/
-    weight: 50
+  # - name: Projects
+  #   url: projects/
+  #   weight: 30
+  # - name: Posts
+  #   url: /#news
+  #   weight: 40
+  # - name: Contact
+  #   url: teaching/
+  #   weight: 50
