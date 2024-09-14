@@ -3,3 +3,7 @@
     align-items: center;
     flex-direction: column;
 }
+
+.-start-2 {
+    inset-inline-start: -.5rem
+}

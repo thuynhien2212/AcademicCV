@@ -111,11 +111,11 @@ work:
   - position: Researcher
     company_name: Department of Pharmaceutical Administration, University of Medicine And Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Vietnam
     company_url: https://pharm.ump.edu.vn/
-    company_logo: ump.png
+    company_logo: https://pharm.ump.edu.vn/html/images/LOGO-Khoa-Duoc.png
     date_start: 2023-05-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
+      **Responsibilities include:**
       - Performing data analysis, writing and revising research manuscripts
       - Collaborating with principal supervisors to guide five students through undergraduate dissertations (Infectious Diseases, Drug Utilization, and Health Technology Assessment Topics)
       - Developing standard operating procedures and automation tools for hospital data pooling, cleaning, and analysis using R and Stata
@@ -125,12 +125,12 @@ work:
       - Hands-on training in health technology assessment for Eisai employees
   - position: Health Technology Assessment (HTA) Executive
     company_name: HORUS Company Limited, Ho Chi Minh City, Vietnam
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://horus.vn/'
+    company_logo: 'https://horus.vn/favicon-32x32.png'
     date_start: 2022-04-01
     date_end: 2023-04-01
     summary: |2-
-      Responsibilities include:
+      **Responsibilities include:**
       - Conducted economic evaluation studies of Roche and AstraZeneca products 
       - Planned and calculated for Patient Access Scheme Scenarios to gain patient access to anticancer treatments
       - Trained in Good Clinical Practice and clinical trial monitoring process
@@ -140,8 +140,8 @@ work:
       - Managed patient enrollment and daily operations for the PAS at the hospital
   - position: Health Economics - Math Modeling Intern
     company_name: Oxford University Clinical Research Unit, Ho Chi Minh City, Vietnam
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.oucru.org/vi/location/oucru-ho-chi-minh/'
+    company_logo: 'https://www.oucru.org/wp-content/uploads/2023/02/cropped-cropped-oucru-logo-e1676437479194-150x113.png'
     date_start: 2021-05-01
     date_end: 2021-12-31
     summary: |2-
@@ -151,8 +151,8 @@ work:
       - Trained in writing a scientific paper by the supervisor 
   - position: Research Assistant
     company_name: Department of Pharmaceutical Administration, University of Medicine And Pharmacy at Ho Chi Minh City, Ho Chi Minh City, Vietnam
-    company_url: ''
-    company_logo: ''
+    company_url: https://pharm.ump.edu.vn/
+    company_logo: https://pharm.ump.edu.vn/html/images/LOGO-Khoa-Duoc.png
     date_start: 2019-10-01
     date_end: 2021-12-31
     summary: |

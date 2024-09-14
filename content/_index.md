@@ -56,7 +56,7 @@ sections:
 - block: custom_experience
   id: experience
   content:
-    title: Experience
+    title: Experience & Education
     date_format: Jan 2006
     text: ''
     # Choose a user to display skills from (a folder name within `content/authors/`)
