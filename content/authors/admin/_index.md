@@ -20,17 +20,36 @@ awards:
   title: Improving your statistical inferences
   url: https://www.coursera.org/account/accomplishments/verify/8H7PK0WJZWNH
 - awarder: Coursera
+  certificate_url: https://www.coursera.org/account/accomplishments/verify/8H7PK0WJZWNH
+  date: "2024-09-08"
+  icon: coursera
+  title: Improving your statistical inferences
+  url: https://www.coursera.org/account/accomplishments/verify/8H7PK0WJZWNH
+- awarder: Ministry Of Health
+  certificate_url: https://moh.gov.vn/web/ministry-of-health
+  date: "2022-10-01"
+  icon: moh
+  title: The Good Clinical Practice and Ethics Learning
+  url: https://umpedu-my.sharepoint.com/:b:/g/personal/nptnhien_duoc16_ump_edu_vn/EXfSiye0-KtHgNK_UFKy3-oB9M1nUICTmG4U-5xZ7N-bWw?e=bzDP32
+- awarder: R for Health Technology Assessment in LMICs
+  certificate_url: https://r-hta.org/lmic_chapter/
+  date: "2022-09-20"
+  icon: rhta
+  title: Intermediate R-HTA Modelling
+  url: https://umpedu-my.sharepoint.com/:b:/g/personal/nptnhien_duoc16_ump_edu_vn/EfEcvWVXbvBKsJIKTYhn4XoBgaLiUWbVgiltY8PCm0bXUA?e=pYOVAQ
+- awarder: University Medical Center at Ho Chi Minh City
+  certificate_url: https://hsdt.umc.edu.vn/Account/Login?ReturnUrl=%2F
+  date: "2022-10-12"
+  icon: umc
+  title: Antibiotic Use and Antibiotic Stewardship Program to combat the Antibiotic Resistance
+  url: https://umpedu-my.sharepoint.com/:i:/g/personal/nptnhien_duoc16_ump_edu_vn/EYcj8r11oH5IiJjT4Hi1WzABxGTtiExXJiyaqpZcEGDoHA?e=eWpu2M
+- awarder: Coursera
   certificate_url: https://www.coursera.org/account/accomplishments/verify/CCG7RMAEEX47
   date: "2021-10-01"
   icon: coursera
   title: Practical Time Series Analysis
   url: https://www.coursera.org/account/accomplishments/verify/CCG7RMAEEX47
-- awarder: datacamp
-  certificate_url: https://www.datacamp.com
-  date: "2023-01-21"
-  icon: datacamp
-  title: Object-Oriented Programming in R
-  url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+
 education:
 - area: Pharmacist
   # button:
