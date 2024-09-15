@@ -62,7 +62,7 @@ languages:
 - name: Portuguese
   percent: 25
 last_name: Nguyen
-name_pronunciation: Thuy Nhien Nguyen Phan
+name_pronunciation: Phan Thuy Nhien Nguyen
 organizations:
 - name: University of Medicine and Pharmacy at Ho Chi Minh City
   url: https://pharm.ump.edu.vn/
@@ -105,7 +105,7 @@ skills:
 status:
   icon: ☕️
 superuser: true
-# title: Thuy Nhien Nguyen Phan
+# title: Shirley Nguyen
 
 work:
   - position: Researcher

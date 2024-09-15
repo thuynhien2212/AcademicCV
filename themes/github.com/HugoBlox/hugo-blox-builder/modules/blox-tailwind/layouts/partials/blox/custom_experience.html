@@ -122,11 +122,11 @@
             </svg>
             </svg>
           </span>
-          <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+          <h3 class="flex items-center mb-1 text-xl font-semibold text-gray-900 dark:text-white">
             {{.area}}
           </h3>
           <span
-            class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">{{.institution}}</span>
+            class="block mb-3 text-sm font-normal text-primary-800 dark:text-primary-300 italic">{{.institution}}</span>
           <time class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">
             {{ if .date_start }}
             {{ (time .date_start) | time.Format ($block.design.date_format | default "January 2006") }} –

@@ -7,7 +7,7 @@ sections:
   content:
     button:
       text: Download CV
-      url: uploads/resume.pdf
+      url: resume.pdf
     text: ""
     username: admin
   design:
@@ -39,14 +39,20 @@ sections:
     title: Skills
   design:
     columns: 3
-- block: resume-skills
+- block: resume-awards
   content:
-    title: Languages
+    title: Certifications
     text: ''
-    # Choose a user to display skills from (a folder name within `content/authors/`)
     username: admin
   design:
-    columns: '2'
+    date_format: Jan 2006
+# - block: resume-skills
+#   content:
+#     title: Languages
+#     text: ''
+#     username: admin
+#   design:
+#     columns: '2'
 - block: custom_experience
   id: experience
   content:
