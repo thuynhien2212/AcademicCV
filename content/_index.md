@@ -51,13 +51,6 @@ sections:
     title: Skills
   design:
     columns: 3
-- block: resume-awards
-  content:
-    title: Certifications
-    text: ''
-    username: admin
-  design:
-    date_format: Jan 2006
 # - block: resume-skills
 #   content:
 #     title: Languages
@@ -75,6 +68,13 @@ sections:
     username: admin
   design:
     columns: '1'
+- block: resume-awards
+  content:
+    title: Certificates
+    text: ''
+    username: admin
+  design:
+    date_format: Jan 2006
 - block: collection
   id: publication
   content:
