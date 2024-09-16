@@ -2,220 +2,220 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thuynhiennguyenphan.netlify.app/event/example/</loc>
+    <loc>http://localhost:4321/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/event/</loc>
+    <loc>http://localhost:4321/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/antibiotic-stewardship-program/</loc>
+    <loc>http://localhost:4321/tags/antibiotic-stewardship-program/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/publication/pub1/</loc>
+    <loc>http://localhost:4321/publication/pub1/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/publication/</loc>
+    <loc>http://localhost:4321/publication/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/</loc>
+    <loc>http://localhost:4321/tags/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/publication/pub3/</loc>
+    <loc>http://localhost:4321/publication/pub3/</loc>
     <lastmod>2024-06-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/health-economic/</loc>
+    <loc>http://localhost:4321/tags/health-economic/</loc>
     <lastmod>2024-06-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/antimicrobial-consumption/</loc>
+    <loc>http://localhost:4321/tags/antimicrobial-consumption/</loc>
     <lastmod>2024-06-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/conference/</loc>
+    <loc>http://localhost:4321/conference/</loc>
     <lastmod>2024-06-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/conference/umbrella_review/</loc>
+    <loc>http://localhost:4321/conference/umbrella_review/</loc>
     <lastmod>2024-06-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/disease-burden/</loc>
+    <loc>http://localhost:4321/tags/disease-burden/</loc>
     <lastmod>2024-06-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/health-technology-assessment/</loc>
+    <loc>http://localhost:4321/tags/health-technology-assessment/</loc>
     <lastmod>2024-06-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/conference/swot/</loc>
+    <loc>http://localhost:4321/conference/swot/</loc>
     <lastmod>2024-06-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/conference/aseanpharmnet/</loc>
+    <loc>http://localhost:4321/conference/aseanpharmnet/</loc>
     <lastmod>2024-06-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/vietnam/</loc>
+    <loc>http://localhost:4321/tags/vietnam/</loc>
     <lastmod>2024-06-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/projects/</loc>
+    <loc>http://localhost:4321/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/publication/pub4/</loc>
+    <loc>http://localhost:4321/publication/pub4/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/antibiotic-stewardship-program-health-technology-assessment/</loc>
+    <loc>http://localhost:4321/tags/antibiotic-stewardship-program-health-technology-assessment/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/publication/pub5/</loc>
+    <loc>http://localhost:4321/publication/pub5/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/conference/idconference/</loc>
+    <loc>http://localhost:4321/conference/idconference/</loc>
     <lastmod>2023-11-24T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/post/get-started/</loc>
+    <loc>http://localhost:4321/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/academic/</loc>
+    <loc>http://localhost:4321/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/post/</loc>
+    <loc>http://localhost:4321/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/hugo-blox/</loc>
+    <loc>http://localhost:4321/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/markdown/</loc>
+    <loc>http://localhost:4321/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/hugo/</loc>
+    <loc>http://localhost:4321/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/project/pandas/</loc>
+    <loc>http://localhost:4321/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/project/</loc>
+    <loc>http://localhost:4321/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/project/pytorch/</loc>
+    <loc>http://localhost:4321/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/project/scikit/</loc>
+    <loc>http://localhost:4321/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/second-brain/</loc>
+    <loc>http://localhost:4321/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/wowchemy/</loc>
+    <loc>http://localhost:4321/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/post/second-brain/</loc>
+    <loc>http://localhost:4321/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/post/data-visualization/</loc>
+    <loc>http://localhost:4321/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/post/teach-courses/</loc>
+    <loc>http://localhost:4321/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/experience/</loc>
+    <loc>http://localhost:4321/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:4321/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/javascript/</loc>
+    <loc>http://localhost:4321/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/teaching/js/</loc>
+    <loc>http://localhost:4321/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/teaching/python/</loc>
+    <loc>http://localhost:4321/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/python/</loc>
+    <loc>http://localhost:4321/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/teaching/</loc>
+    <loc>http://localhost:4321/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/post/project-management/</loc>
+    <loc>http://localhost:4321/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/publication/pub6/</loc>
+    <loc>http://localhost:4321/publication/pub6/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/publication_new/</loc>
+    <loc>http://localhost:4321/publication_new/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://localhost:4321/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/plot/</loc>
+    <loc>http://localhost:4321/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/r-markdown/</loc>
+    <loc>http://localhost:4321/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/tags/regression/</loc>
+    <loc>http://localhost:4321/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/award/</loc>
+    <loc>http://localhost:4321/award/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/publication/pub2/</loc>
+    <loc>http://localhost:4321/publication/pub2/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/publication_types/</loc>
+    <loc>http://localhost:4321/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://thuynhiennguyenphan.netlify.app/skills/</loc>
+    <loc>http://localhost:4321/skills/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

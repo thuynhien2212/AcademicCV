@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antibiotic Stewardship Program, Health Technology Assessment | Phan Thuy Nhien Nguyen</title>
-    <link>https://thuynhiennguyenphan.netlify.app/tags/antibiotic-stewardship-program-health-technology-assessment/</link>
-      <atom:link href="https://thuynhiennguyenphan.netlify.app/tags/antibiotic-stewardship-program-health-technology-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/antibiotic-stewardship-program-health-technology-assessment/</link>
+      <atom:link href="http://localhost:4321/tags/antibiotic-stewardship-program-health-technology-assessment/index.xml" rel="self" type="application/rss+xml" />
     <description>Antibiotic Stewardship Program, Health Technology Assessment</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thuynhiennguyenphan.netlify.app/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
       <title>Antibiotic Stewardship Program, Health Technology Assessment</title>
-      <link>https://thuynhiennguyenphan.netlify.app/tags/antibiotic-stewardship-program-health-technology-assessment/</link>
+      <link>http://localhost:4321/tags/antibiotic-stewardship-program-health-technology-assessment/</link>
     </image>
     
     <item>
       <title>Vancomycin therapeutic drug monitoring before and after applying the target AUC approach at Hospital for Tropical Diseases from 2020 to 2021</title>
-      <link>https://thuynhiennguyenphan.netlify.app/publication/pub5/</link>
+      <link>http://localhost:4321/publication/pub5/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://thuynhiennguyenphan.netlify.app/publication/pub5/</guid>
+      <guid>http://localhost:4321/publication/pub5/</guid>
       <description></description>
     </item>
     

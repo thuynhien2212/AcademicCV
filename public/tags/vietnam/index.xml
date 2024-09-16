@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vietnam | Phan Thuy Nhien Nguyen</title>
-    <link>https://thuynhiennguyenphan.netlify.app/tags/vietnam/</link>
-      <atom:link href="https://thuynhiennguyenphan.netlify.app/tags/vietnam/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4321/tags/vietnam/</link>
+      <atom:link href="http://localhost:4321/tags/vietnam/index.xml" rel="self" type="application/rss+xml" />
     <description>Vietnam</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thuynhiennguyenphan.netlify.app/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
       <title>Vietnam</title>
-      <link>https://thuynhiennguyenphan.netlify.app/tags/vietnam/</link>
+      <link>http://localhost:4321/tags/vietnam/</link>
     </image>
     
     <item>
       <title>Disease and economic burden of some chronic diseases in low-middle income countries: A systematic review and a proposal set of assessment criteria</title>
-      <link>https://thuynhiennguyenphan.netlify.app/conference/umbrella_review/</link>
+      <link>http://localhost:4321/conference/umbrella_review/</link>
       <pubDate>Wed, 12 Jun 2024 13:00:00 +0000</pubDate>
-      <guid>https://thuynhiennguyenphan.netlify.app/conference/umbrella_review/</guid>
+      <guid>http://localhost:4321/conference/umbrella_review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementation of Health Technology Assessment in Vietnam: A hybrid policy Delphi-SWOT analysis</title>
-      <link>https://thuynhiennguyenphan.netlify.app/conference/swot/</link>
+      <link>http://localhost:4321/conference/swot/</link>
       <pubDate>Wed, 12 Jun 2024 13:00:00 +0000</pubDate>
-      <guid>https://thuynhiennguyenphan.netlify.app/conference/swot/</guid>
+      <guid>http://localhost:4321/conference/swot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measurement of DDD and DOT metrics for optimizing antimicrobial surveillance in two tertiary hospitals in Viet Nam: a four-year retrospective study</title>
-      <link>https://thuynhiennguyenphan.netlify.app/conference/aseanpharmnet/</link>
+      <link>http://localhost:4321/conference/aseanpharmnet/</link>
       <pubDate>Wed, 12 Jun 2024 13:00:00 +0000</pubDate>
-      <guid>https://thuynhiennguyenphan.netlify.app/conference/aseanpharmnet/</guid>
+      <guid>http://localhost:4321/conference/aseanpharmnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measurement of DDD and DOT metrics for optimizing antimicrobial surveillance in two tertiary hospitals in Viet Nam: a four-year retrospective study</title>
-      <link>https://thuynhiennguyenphan.netlify.app/conference/idconference/</link>
+      <link>http://localhost:4321/conference/idconference/</link>
       <pubDate>Fri, 24 Nov 2023 13:00:00 +0000</pubDate>
-      <guid>https://thuynhiennguyenphan.netlify.app/conference/idconference/</guid>
+      <guid>http://localhost:4321/conference/idconference/</guid>
       <description></description>
     </item>
     
