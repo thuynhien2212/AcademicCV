@@ -26,16 +26,28 @@ sections:
     items:
       - icon: r-project
         icon_pack: custom
-        name: R
-        description: 90%
+        name: Programming
+        description: Highly adaptive learner
       - icon: cube
         icon_pack: fas
-        name: Statistics
-        description: 100%
-      - icon: camera-retro
+        name: Statistics and Math Modelling
+        description: A stickler for detail
+      - icon: keyboard
         icon_pack: fas
-        name: Photography
-        description: 10%
+        name: Academic Writing
+        description: Eager beginner
+      - icon: comments
+        icon_pack: fas
+        name: Communication
+        description: Proactive collaborator
+      - icon: timeline
+        icon_pack: fas
+        name: Project Management
+        description: Careful planner
+      - icon: people-group
+        icon_pack: fas
+        name: Teamworking
+        description: Reliable team member    
     title: Skills
   design:
     columns: 3

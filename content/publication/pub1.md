@@ -5,5 +5,5 @@ abstract: To compare DDD and DOT metrics of antimicrobials to determine the opti
 tags:
 - Antibiotic Stewardship Program
 title: "Measurement of DDD and DOT metrics for optimizing antimicrobial surveillance in two tertiary hospitals in Viet Nam: a four-year retrospective study"
-url_source: https://li04.tci-thaijo.org/index.php/PSA
+url_pdf: https://li04.tci-thaijo.org/index.php/PSA
 ---
