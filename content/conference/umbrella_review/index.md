@@ -9,8 +9,8 @@ address:
 all_day: false
 authors:
 - admin
-date: "2024-06-12T13:00:00Z"
-date_end: "2024-06-14T15:00:00Z"
+date: "2024-04-11T13:00:00Z"
+date_end: "2024-04-12T15:00:00Z"
 event: 40th Technical and Scientific Conference at University of Medicine and Pharmacy at Ho Chi Minh City
 event_url: https://pharm.ump.edu.vn/nghien-cuu/hoi-thao-hoi-nghi/chuong-trinh-hoi-nghi-khoa-hoc-ky-thuat-duoc-lan-thu-40/6347
 featured: false

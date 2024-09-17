@@ -6,4 +6,5 @@ tags:
 - Health Economic
 title: Analysis of direct healthcare costs in the treatment of community-acquired pneumonia at Children’s Hospital 1 in 2022
 url_source: https://tapchiyhocvietnam.vn/index.php/vmj/article/view/10198
+url_pdf: https://tapchiyhocvietnam.vn/index.php/vmj/article/view/10198/8921
 ---

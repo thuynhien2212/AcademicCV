@@ -7,4 +7,5 @@ tags:
 - Antibiotic Stewardship Program, Health Technology Assessment
 title: Vancomycin therapeutic drug monitoring before and after applying the target AUC approach at Hospital for Tropical Diseases from 2020 to 2021
 url_source: https://doi.org/10.51298/vmj.v534i1B.8273
+url_pdf: https://tapchiyhocvietnam.vn/index.php/vmj/article/view/8273/7303
 ---

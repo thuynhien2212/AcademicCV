@@ -7,4 +7,5 @@ tags:
 - Antibiotic Stewardship Program
 title: Developing a set of assessment criteria for antibiotic stewardship program in hospitals. 
 url_source: https://doi.org/10.51298/vmj.v525i1A.4986
+url_pdf: https://tapchiyhocvietnam.vn/index.php/vmj/article/view/4986/4549
 ---

@@ -42,14 +42,6 @@
     <lastmod>2024-06-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/conference/umbrella_review/</loc>
-    <lastmod>2024-06-12T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tags/disease-burden/</loc>
-    <lastmod>2024-06-12T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:4321/tags/health-technology-assessment/</loc>
     <lastmod>2024-06-12T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -68,6 +60,14 @@
   </url><url>
     <loc>http://localhost:4321/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/conference/umbrella_review/</loc>
+    <lastmod>2024-04-11T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/disease-burden/</loc>
+    <lastmod>2024-04-11T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/publication/pub4/</loc>
