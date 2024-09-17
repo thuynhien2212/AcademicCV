@@ -25,6 +25,6 @@ main:
   # - name: Posts
   #   url: /#news
   #   weight: 40
-  # - name: Contact
-  #   url: teaching/
-  #   weight: 50
+  - name: Contact
+    url: /#contact
+    weight: 50

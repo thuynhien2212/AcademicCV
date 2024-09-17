@@ -1,5 +1,11 @@
 ---
-authors: Truong Thuy Quynh, Huynh Phuong Thao, Nguyen Phan Thuy Nhien, Nguyen Van Vinh Chau, Nguyen Thi Hai Yen.
+authors:
+- Truong Thuy Quynh
+- Huynh Phuong Thao
+- Nguyen Phan Thuy Nhien
+- Nguyen Van Vinh Chau
+- Nguyen Thi Hai Yen
+highlight_index: 2
 date: "2024-01-30T00:00:00Z"
 doi: 10.51298/vmj.v534i1B.8273
 abstract: To evaluate the cost-effectiveness of vancomycin TDM before and after applying the target AUC approach at the Hospital For Tropical Diseases.

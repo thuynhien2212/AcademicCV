@@ -1,5 +1,12 @@
 ---
-authors: Nguyen Thi Bich Nga, Ngo Ngoc Quang Minh, Nguyen Phan Thuy Nhien, Ngo Le Lan Uyen, Nguyen Thi Hai Yen, Nguyen Thị Quynh Nga.
+authors:
+- Nguyen Thi Bich Nga
+- Ngo Ngoc Quang Minh
+- Nguyen Phan Thuy Nhien
+- Ngo Le Lan Uyen
+- Nguyen Thi Hai Yen
+- Nguyen Thị Quynh Nga
+highlight_index: 2
 date: "2024-06-29T00:00:00Z"
 abstract: To analyze the treatment costs of community-acquired pneumonia (CAP) and identify some factors associated with the total cost at the Children's Hospital 1 in 2022
 tags:

@@ -7,6 +7,8 @@ authors:
 - "Thanh Dinh Le"
 - "Yen Thi-Hai Nguyen"
 - "Nga Thi-Quynh Nguyen"
+highlight_index: 0
+highlight_name: true
 date: "2024-09-01T00:00:00Z"
 abstract: To compare DDD and DOT metrics of antimicrobials to determine the optimal metric for resource allocation.
 tags:

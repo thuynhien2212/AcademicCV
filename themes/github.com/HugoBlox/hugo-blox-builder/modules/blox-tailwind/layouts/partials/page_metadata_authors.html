@@ -5,9 +5,10 @@
   {{ range $index, $value := (.GetTerms $taxonomy) }}
     {{- /* Highlight the author's name? */ -}}
     {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+    {{- $highlight_index := $.Params.highlight_index -}}
 
     {{- if gt $index 0 }}, {{ end -}}
-    <span {{ if $highlight_name }}class="font-bold"{{end}}>
+    <span {{ if $highlight_name }}class="font-bold"{{end}} {{ if eq $index $highlight_index }}class="font-bold"{{end}}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
       {{- if .RelPermalink -}}
         <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>

@@ -1,5 +1,11 @@
 ---
-authors: "Nguyen Thi Thuy Anh, Nguyen Phan Thuy Nhien, Tran Ngoc Thien Phu, Nguyen Thi Quynh Nga, Dang Thi Kieu Nga"
+authors:
+- Nguyen Thi Thuy Anh
+- Nguyen Phan Thuy Nhien
+- Tran Ngoc Thien Phu
+- Nguyen Thi Quynh Nga
+- Dang Thi Kieu Nga
+highlight_index: 1
 date: "2024-02-29T00:00:00Z"
 doi: "10.38148/JHDS.0801SKPT24-003"
 abstract: To investigate the cost-effectiveness of using the prophylactic antibiotic cefazolin during cesarean section with a dose of 2 g compared to 1 g by clinical practice at the Mekong Maternity Hospital.
