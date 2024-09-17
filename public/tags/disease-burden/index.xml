@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Disease Burden | Phan Thuy Nhien Nguyen</title>
-    <link>http://localhost:4321/tags/disease-burden/</link>
-      <atom:link href="http://localhost:4321/tags/disease-burden/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thuynhiennguyenphan.netlify.app/tags/disease-burden/</link>
+      <atom:link href="https://thuynhiennguyenphan.netlify.app/tags/disease-burden/index.xml" rel="self" type="application/rss+xml" />
     <description>Disease Burden</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Apr 2024 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <url>https://thuynhiennguyenphan.netlify.app/media/icon_hu7729264130191091259.png</url>
       <title>Disease Burden</title>
-      <link>http://localhost:4321/tags/disease-burden/</link>
+      <link>https://thuynhiennguyenphan.netlify.app/tags/disease-burden/</link>
     </image>
     
     <item>
       <title>Disease and economic burden of some chronic diseases in low-middle income countries: A systematic review and a proposal set of assessment criteria</title>
-      <link>http://localhost:4321/conference/umbrella_review/</link>
+      <link>https://thuynhiennguyenphan.netlify.app/conference/umbrella_review/</link>
       <pubDate>Thu, 11 Apr 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/conference/umbrella_review/</guid>
+      <guid>https://thuynhiennguyenphan.netlify.app/conference/umbrella_review/</guid>
       <description></description>
     </item>
     
