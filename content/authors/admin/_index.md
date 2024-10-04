@@ -91,7 +91,7 @@ profiles:
 #   url: https://scholar.google.com/
 - icon: academicons/orcid
   url: https://orcid.org/0000-0002-5494-271X
-role: Pharm.D
+role: B.Pharm
 skills:
 - items:
   - description: ""
